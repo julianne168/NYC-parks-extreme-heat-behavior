@@ -35,10 +35,7 @@ New York City faces both public health and public space usage challenges during 
 ├── data/
 │   ├── raw/             # Raw data (large/sensitive files excluded)
 │   └── processed/       # Final analysis datasets
-├── figures/             # Generated plots and visualizations
-├── requirements.txt     # Python dependencies (or environment.yml / pyproject.toml)
 ├── .gitignore
-└── LICENSE
 ```
 
 ## Reproducibility
