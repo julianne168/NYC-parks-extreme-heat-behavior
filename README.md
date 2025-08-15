@@ -38,20 +38,6 @@ New York City faces both public health and public space usage challenges during 
 ├── .gitignore
 ```
 
-## Reproducibility
-
-```bash
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# Example: run the main analysis pipeline
-python src/main.py
-
-# Or open the notebooks for exploration and visualization
-```
-
-> Store only sample data or provide download scripts (e.g., `src/data_download.py`) instead of committing large or sensitive datasets.
-
 ## Resources
 
 * Poster PDF: [`reports/NYC_Parks_Extreme_Heat_Poster.pdf`](reports/NYC_Parks_Extreme_Heat_Poster.pdf)
