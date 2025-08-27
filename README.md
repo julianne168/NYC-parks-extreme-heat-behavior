@@ -1,7 +1,3 @@
-Here’s a clean, fully English rewrite of your README while keeping it professional and portfolio-ready:
-
----
-
 # Understanding Social Behaviors in NYC Parks Under Extreme Heat
 
 This project analyzes how park visitation in New York City changes during **extreme heat events**, using human mobility and weather data. It quantifies the influence of environmental and facility factors — such as tree shade, water proximity, and temporal/spatial patterns—on public space usage, and provides equity- and resilience-focused planning recommendations.
